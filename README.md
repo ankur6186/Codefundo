@@ -20,4 +20,4 @@ Technology Used:
 * MySQL
 * HTML
 * CSS
-* JavaScript
+* JavaScript(JS)
