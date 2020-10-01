@@ -1,13 +1,13 @@
 # SECURED AND TRANSPARENT E-VOTING SYSTEM:
 
-Main Objective for voting:
+Main Objective for voting are:
 * To avoid duplicate and fake votes
 * To avoid hacking/altering of Votes
 * To count the votes casted for a candidate very accurately.
 * To prevent illegal votes from different constituency by the same Individual.
 * To attain a higher level of transparency by letting the person know for whom he/she has voted.
 
-We  will use blockchain technology to achieve these goals.We are using consensus mechanism to achieve the required agreement on a single state of the network.
+We  will use blockchain technology to achieve these goals. We are using consensus mechanism to achieve the required agreement on a single state of the network.
 
 We will create one primary block chain and various unique block chains for all the contesting candidates.Primary block chain has blocks which will store the unique serial number given in the Voter ID card and private key which will be provided to the user at the time of creation of voter ID.This private key is unique to all the users.The users who have already created their voter ID can also generate their private key by contacting their respective BLO officers. Other block chains for all the Contestants will be having blocks having details of the candidates who have casted votes in their favour. By this way we can know the number of people voted for the particular candidate.
 
